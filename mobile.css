@@ -9,11 +9,11 @@
 
 /* RESETS */
 
-body {
+* {
   box-sizing: border-box;
   margin: 0;
   font-family: 'Kumbh Sans', sans-serif;
-  font-size: 1.625rem; /* 26px for name and stats*/
+  font-size: 1.125rem; /* 18px for name and stats*/
 }
 
 a {
@@ -21,12 +21,3 @@ a {
 }
 
 /* MOBILE STYLE */
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
